@@ -1,2 +1,2 @@
 # NuxtDemo
-nuxt
+nuxt wwwwwwwwww
